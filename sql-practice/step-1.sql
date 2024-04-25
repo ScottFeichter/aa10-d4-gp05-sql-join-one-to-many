@@ -4,3 +4,5 @@
 SELECT bands.name, albums.title
 FROM bands
 JOIN albums ON (albums.band_id = bands.id)
+
+--was able to complete
